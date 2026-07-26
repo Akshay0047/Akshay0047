@@ -21,7 +21,7 @@
 ```json
 {
   "name"      : "Akshay Suresh",
-  "role"      : "CS Student (5th Semester) · Full-Stack Developer",
+  "role"      : "CS Student · Full-Stack Developer",
   "focus"     : ["Full-Stack Web Dev", "Generative AI Engineering"],
   "exploring" : "RAG pipelines, LLM-powered chatbots, and AI agents",
   "stack"     : "React • TypeScript • Redux Toolkit • Django • DRF • MongoDB",
