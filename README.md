@@ -144,6 +144,4 @@
 └─────────────────────────────────────────────────────┘
 ```
 
-![Visitors](https://profile-counter.glitch.me/Akshay0047/count.svg)
-
 </div>
