@@ -3,7 +3,7 @@
 ```
 ╔══════════════════════════════════════════════════════════════╗
 ║                                                              ║
-║               A K S H A Y   S U R E S H                     ║
+║               A K S H A Y   S U R E S H                      ║
 ║                                                              ║
 ║       Full-Stack Developer  ·  GenAI Engineer in the Making  ║
 ║                                                              ║
