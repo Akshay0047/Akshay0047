@@ -109,16 +109,7 @@
 
 ---
 
-### `$ top --sort=activity`
 
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay0047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-
-
-</div>
-
----
 
 ### `$ ping ./contact`
 
@@ -139,7 +130,7 @@
 │   "Learning to build systems that think."           │
 │                                                     │
 │   Full-stack today, building with AI agents         │
-│   tomorrow.                                          │
+│   tomorrow.                                         │
 │                                                     │
 └─────────────────────────────────────────────────────┘
 ```
