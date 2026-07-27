@@ -14,7 +14,7 @@
 
 ---
 
-<img align="right" width="380" src="https://github-readme-stats.vercel.app/api?username=Akshay0047&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=8b949e&count_private=true" />
+
 
 ### `$ whoami`
 
@@ -36,16 +36,16 @@
 
 ### `$ cat /etc/currently-building`
 
-> 🚀 Working through a structured roadmap from **LLM API fundamentals → RAG pipelines → agent building** with LangChain/LangGraph
-> 🧠 Building portfolio projects around **RAG systems, chatbots, and agents**
-> 🛠️ Recently wrapped an internship building production-style full-stack apps with JWT auth, CRUD, and MongoDB
+>  Working through a structured roadmap from **LLM API fundamentals → RAG pipelines → agent building** with LangChain/LangGraph
+>  Building portfolio projects around **RAG systems, chatbots, and agents**
+>  Recently wrapped an internship building production-style full-stack apps with JWT auth, CRUD, and MongoDB
 
 ---
 
 ### `$ ls -la ./tech-stack/`
 
 <details open>
-<summary><b>⚡ Frontend</b></summary>
+<summary><b> Frontend</b></summary>
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=fff)
@@ -57,7 +57,7 @@
 </details>
 
 <details open>
-<summary><b>⚙️ Backend</b></summary>
+<summary><b> Backend</b></summary>
 
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=fff)
 ![Django REST Framework](https://img.shields.io/badge/DRF-A30000?style=flat-square&logo=django&logoColor=fff)
@@ -69,7 +69,7 @@
 </details>
 
 <details open>
-<summary><b>🤖 GenAI / LLM Stack (currently learning)</b></summary>
+<summary><b> GenAI / LLM Stack (currently learning)</b></summary>
 
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=fff)
 ![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
@@ -79,8 +79,8 @@
 
 </details>
 
-<details>
-<summary><b>🗄️ Databases & Tools</b></summary>
+<details open>
+<summary><b> Databases & Tools</b></summary>
 
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=fff)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=fff)
@@ -89,8 +89,8 @@
 
 </details>
 
-<details>
-<summary><b>🎮 Game Dev</b></summary>
+<details open>
+<summary><b> Game Dev</b></summary>
 
 ![Unity](https://img.shields.io/badge/Unity-000?style=flat-square&logo=unity&logoColor=fff)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=fff)
@@ -103,9 +103,9 @@
 
 | Project | Description | Stack |
 |---|---|---|
-| 🔐 [User-Management-System](https://github.com/Akshay0047/User-Management-System) | Full-stack user management app with JWT auth, CRUD, and Redux Toolkit | React · TypeScript · DRF · MongoDB |
-| 👤 [Authentication-Profile-Management-Application](https://github.com/Akshay0047/Authentication-Profile-Management-Application) | Auth & profile management app with manual JWT validation | React · TypeScript · Django · MongoDB |
-| 📄 [RAG-PDF-Reader](https://github.com/Akshay0047/RAG-PDF-Reader) | A RAG-based PDF reader for querying documents using LLMs | Python · LangChain · RAG |
+|  [User-Management-System](https://github.com/Akshay0047/User-Management-System) | Full-stack user management app with JWT auth, CRUD, and Redux Toolkit | React · TypeScript · DRF · MongoDB |
+|  [Authentication-Profile-Management-Application](https://github.com/Akshay0047/Authentication-Profile-Management-Application) | Auth & profile management app with manual JWT validation | React · TypeScript · Django · MongoDB |
+|  [RAG-PDF-Reader](https://github.com/Akshay0047/RAG-PDF-Reader) | A RAG-based PDF reader for querying documents using LLMs | Python · LangChain · RAG |
 
 ---
 
@@ -114,7 +114,7 @@
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akshay0047&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=8b949e&langs_count=8" />
-<img height="180em" src="https://github-readme-streak-stats.herokuapp.com?user=Akshay0047&theme=tokyonight&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6e96&currStreakLabel=58a6ff" />
+
 
 </div>
 
